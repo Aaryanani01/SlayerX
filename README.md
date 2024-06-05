@@ -1,5 +1,5 @@
 <h2 align="center">
-    ── [ 𝗠𝗢𝗢𝗡 🇽 𝗧𝗡𝗦 ] ──
+    ──[ 𝗠𝗢𝗢𝗡 🇽 𝗧𝗡𝗦 ]──
 </h2>
 
 <p align="center">
