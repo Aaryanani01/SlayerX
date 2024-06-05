@@ -1,34 +1,34 @@
 <h2 align="center">
-    ──「 SlayerX Music 」──
+    ── [ 𝗠𝗢𝗢𝗡 🇽 𝗧𝗡𝗦 ] ──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/e27e233e14eb9f3271885.jpg">
+  <img src="https://telegra.ph/file/7352034e4180b688a9574.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/AtulxD/SlayerX/stargazers"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AtulxD/SlayerX/network/members"> <img src="https://img.shields.io/github/forks/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AtulxD/SlayerX/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Aaryanani01/moonXtns.git"><img src="https://github.com/Aaryanani01/moonXtns.git?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Aaryanani01/moonXtns.git/network/members"> <img src="https://github.com/Aaryanani01/moonXtns.git?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Aaryanani01/moonXtns.git/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AtulxD/SlayerX/commits/SlayerX"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Aaryanani01/moonXtns.git/commits/SlayerX"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/db7653b29f9b702cb12f8.jpg">
+  <img src="https://telegra.ph/file/d6763f4d45b81bf39a97e.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AtulxD/SlayerX"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Aaryanani01/moonXtns.git"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AtulxD/SlayerX/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Aaryanani01/moonXtns.git/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
